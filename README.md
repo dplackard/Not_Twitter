@@ -10,3 +10,10 @@ I have used Twitter for over a decade now, and it's something that I understand 
 ###### Technologies / Dependancies used in this.
 HTML, JavaScript, CSS, Node.js, NPM, MongoDB, dependancies: "bad-words", "cors", "express", "express-rate-limit", "monk", "morgan", "nodemon"
 <hr/>
+
+###### What's next?
+~~+ Filtering of "bad-words"~~
++ User Accounts
+    - Signup / Login functionality
++ Search Functionality
++ An overall UI/UX design
