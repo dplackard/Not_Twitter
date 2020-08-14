@@ -12,7 +12,7 @@ HTML, JavaScript, CSS, Node.js, NPM, MongoDB, dependancies: "bad-words", "cors",
 <hr/>
 
 ###### What's next?
-~~+ Filtering of "bad-words"~~
+~~* Filtering of "bad-words"~~
 + User Accounts
     - Signup / Login functionality
 + Search Functionality
