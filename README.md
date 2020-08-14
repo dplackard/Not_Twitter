@@ -15,5 +15,6 @@ HTML, JavaScript, CSS, Node.js, NPM, MongoDB, dependancies: "bad-words", "cors",
 ~~Filtering of "bad-words"~~
 + User Accounts
     - Signup / Login functionality
+    - User Profiles with CRUD fucntionality
 + Search Functionality
 + An overall UI/UX design
