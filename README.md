@@ -8,7 +8,7 @@ I have used Twitter for over a decade now, and it's something that I understand 
 <hr/>
 
 ###### Technologies / Dependencies used in this.
-HTML, JavaScript, CSS, Node.js, NPM, MongoDB,  
+HTML, JavaScript, CSS, Node.js, NPM, MongoDB  
 Dependencies:   
 "bad-words": https://www.npmjs.com/package/bad-words  
 "cors": https://www.npmjs.com/package/cors  
