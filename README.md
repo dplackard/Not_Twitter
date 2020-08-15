@@ -8,15 +8,15 @@ I have used Twitter for over a decade now, and it's something that I understand 
 <hr/>
 
 ###### Technologies / Dependencies used in this.
-HTML, JavaScript, CSS, Node.js, NPM, MongoDB,
-Dependencies: 
-"bad-words": https://www.npmjs.com/package/bad-words
-"cors": https://www.npmjs.com/package/cors
-"express": https://www.npmjs.com/package/express
-"express-rate-limit": https://www.npmjs.com/package/express-rate-limit
-"monk": https://www.npmjs.com/package/monk
-"morgan": https://www.npmjs.com/package/morgan
-"nodemon": https://www.npmjs.com/package/nodemon
+HTML, JavaScript, CSS, Node.js, NPM, MongoDB,  
+Dependencies:   
+"bad-words": https://www.npmjs.com/package/bad-words  
+"cors": https://www.npmjs.com/package/cors  
+"express": https://www.npmjs.com/package/express  
+"express-rate-limit": https://www.npmjs.com/package/express-rate-limit  
+"monk": https://www.npmjs.com/package/monk  
+"morgan": https://www.npmjs.com/package/morgan  
+"nodemon": https://www.npmjs.com/package/nodemon  
 <hr/>
 
 ###### What's next?
